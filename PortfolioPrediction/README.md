@@ -2,7 +2,10 @@
 
 ## Overview
 
-Todo
+In this project we created a tool for
+choosing an investment portfolio from a selection of stocks provided by a chat bot. The user (e.g., a portfolio manager)
+interacts with the bot to filter stocks from the New York Stock Exchange & NASDAQ and select a number ofstocks that match
+the user's investment preferences (i.e. avg. daily volume and P/E ratio).
 
 ## How to use
 
